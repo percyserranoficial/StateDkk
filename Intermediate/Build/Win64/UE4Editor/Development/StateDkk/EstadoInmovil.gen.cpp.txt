@@ -1,0 +1,7 @@
+D:\VICTUS\Documents\StateDkk\Intermediate\Build\Win64\UE4Editor\Development\StateDkk\Definitions.StateDkk.h
+C:\Users\VICTUS\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Users\VICTUS\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\VICTUS\Documents\StateDkk\Source\StateDkk/EstadoInmovil.h
+D:\VICTUS\Documents\StateDkk\Source\StateDkk\IStateMovimiento.h
+D:\VICTUS\Documents\StateDkk\Intermediate\Build\Win64\UE4Editor\Inc\StateDkk\IStateMovimiento.generated.h
+D:\VICTUS\Documents\StateDkk\Intermediate\Build\Win64\UE4Editor\Inc\StateDkk\EstadoInmovil.generated.h

@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\StateDkk.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{7D04CE32-50D0-46A5-AC06-3D0EE07E916E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\StateDkk.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\StateDkkEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{749FE18A-C7AD-4544-9BF1-229C553523D9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\StateDkk">
+      <UniqueIdentifier>{1FB621DF-3F2B-48C8-A27D-ED99BAA459D8}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\StateDkk\Barril.cpp">
+      <Filter>Source\StateDkk</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StateDkk\Barril.h">
+      <Filter>Source\StateDkk</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StateDkk\Enemigo.cpp">
+      <Filter>Source\StateDkk</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StateDkk\Enemigo.h">
+      <Filter>Source\StateDkk</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StateDkk\Enemigo1.cpp">
+      <Filter>Source\StateDkk</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StateDkk\Enemigo1.h">
+      <Filter>Source\StateDkk</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StateDkk\Enemigo2.cpp">
+      <Filter>Source\StateDkk</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StateDkk\Enemigo2.h">
+      <Filter>Source\StateDkk</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StateDkk\Enemigo3.cpp">
+      <Filter>Source\StateDkk</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StateDkk\Enemigo3.h">
+      <Filter>Source\StateDkk</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StateDkk\EnemigoB.cpp">
+      <Filter>Source\StateDkk</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StateDkk\EnemigoB.h">
+      <Filter>Source\StateDkk</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StateDkk\EnemigoC.cpp">
+      <Filter>Source\StateDkk</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StateDkk\EnemigoC.h">
+      <Filter>Source\StateDkk</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StateDkk\EstadoBarril.cpp">
+      <Filter>Source\StateDkk</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StateDkk\EstadoBarril.h">
+      <Filter>Source\StateDkk</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StateDkk\EstadoInmovil.cpp">
+      <Filter>Source\StateDkk</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StateDkk\EstadoInmovil.h">
+      <Filter>Source\StateDkk</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StateDkk\EstadoReposo.cpp">
+      <Filter>Source\StateDkk</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StateDkk\EstadoReposo.h">
+      <Filter>Source\StateDkk</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StateDkk\EstadoRodando.cpp">
+      <Filter>Source\StateDkk</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StateDkk\EstadoRodando.h">
+      <Filter>Source\StateDkk</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StateDkk\EstadoTrampa.cpp">
+      <Filter>Source\StateDkk</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StateDkk\EstadoTrampa.h">
+      <Filter>Source\StateDkk</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StateDkk\FabricaEnemigos.cpp">
+      <Filter>Source\StateDkk</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StateDkk\FabricaEnemigos.h">
+      <Filter>Source\StateDkk</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StateDkk\Fantasma.cpp">
+      <Filter>Source\StateDkk</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StateDkk\Fantasma.h">
+      <Filter>Source\StateDkk</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StateDkk\IStateMovimiento.cpp">
+      <Filter>Source\StateDkk</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StateDkk\IStateMovimiento.h">
+      <Filter>Source\StateDkk</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StateDkk\MuroTrampa.cpp">
+      <Filter>Source\StateDkk</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StateDkk\MuroTrampa.h">
+      <Filter>Source\StateDkk</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StateDkk\Plataforma.cpp">
+      <Filter>Source\StateDkk</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StateDkk\Plataforma.h">
+      <Filter>Source\StateDkk</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\StateDkk\StateDkk.Build.cs">
+      <Filter>Source\StateDkk</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\StateDkk\StateDkk.cpp">
+      <Filter>Source\StateDkk</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StateDkk\StateDkk.h">
+      <Filter>Source\StateDkk</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StateDkk\StateDkkCharacter.cpp">
+      <Filter>Source\StateDkk</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StateDkk\StateDkkCharacter.h">
+      <Filter>Source\StateDkk</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StateDkk\StateDkkGameMode.cpp">
+      <Filter>Source\StateDkk</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StateDkk\StateDkkGameMode.h">
+      <Filter>Source\StateDkk</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

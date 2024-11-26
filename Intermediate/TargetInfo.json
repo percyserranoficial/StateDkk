@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "StateDkk",
+			"Path": "D:\\VICTUS\\Documents\\StateDkk\\Source\\StateDkk.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "StateDkkEditor",
+			"Path": "D:\\VICTUS\\Documents\\StateDkk\\Source\\StateDkkEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
